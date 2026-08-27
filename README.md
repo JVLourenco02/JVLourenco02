@@ -1,7 +1,7 @@
 # Olá, meu nome é João Vitor 👋 
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Junior**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 Eu construo **sistemas eficientes**, **APIs robustas** e **soluções focadas em banco de dados e arquitetura**.  
 Foco meus estudos em **arquitetura limpa, performance, segurança e código limpo**.
