@@ -54,19 +54,9 @@ Foco meus estudos em **arquitetura limpa, performance, segurança e código limp
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JVLourenco02&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVLourenco02&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
+## 🚀 Filosofia
 
 > _"Código não é apenas sobre resolver problemas.  
 > É sobre construir estruturas limpas, seguras e que gerem valor real."_
 
 ---
-
